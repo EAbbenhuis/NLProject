@@ -23,3 +23,7 @@ def load_reddit_comment_data(data_directory):
     # the method returns all the loaded Reddit comments
     return comments_data
 
+def tracknames_regex() -> list[str]:
+    with open('MarioKart_tracks.txt', 'r') as file:
+        tracks = [line.strip() for line in file.readlines()]
+    return tracks
