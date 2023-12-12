@@ -1,54 +1,54 @@
-﻿SNES Mario Circuit 3
-SNES Bowser Castle 3
-SNES Donut Plains 3
-SNES Rainbow Road
-N64 Kalimari Desert
-N64 Toad's Turnpike
-N64 Choco Mountain
-N64 Royal Raceway
-N64 Yoshi Valley
-N64 Rainbow Road
-GBA Riverside Park
-GBA Mario Circuit
-GBA Boo Lake
-GBA Cheese Land
-GBA Sky Garden
-GBA Sunset Wilds
-GBA Snow Land
-GBA Ribbon Road
-GCN Baby Park
-GCN Dry Dry Desert
-GCN Daisy Cruiser
-GCN Waluigi Stadium
-GCN Sherbet Land
-GCN Yoshi Circuit
-GCN DK Mountain
-DS Cheep Cheep Beach
-DS Waluigi Pinball
-DS Shroom Ridge
-DS Tick-Tock Clock
-DS Mario Circuit
-DS Wario Stadium
-DS Peach Gardens
-Wii Moo Moo Meadows
-Wii Mushroom Gorge
-Wii Coconut Mall
-Wii DK Summit
-Wii Wario's Gold Mine
-Wii Daisy Circuit
-Wii Koopa Cape
-Wii Maple Treeway
-Wii Grumble Volcano
-Wii Moonview Highway
-Wii Rainbow Road
-3DS Toad Circuit
-3DS Music Park
-3DS Rock Rock Mountain
-3DS Piranha Plant Slide
-3DS Neo Bowser City
-3DS DK Jungle
-3DS Rosalina's Ice World
-3DS Rainbow Road
+﻿Mario Circuit 3
+Bowser Castle 3
+Donut Plains 3
+Rainbow Road
+Kalimari Desert
+Toad's Turnpike
+Choco Mountain
+Royal Raceway
+Yoshi Valley
+Rainbow Road
+Riverside Park
+Mario Circuit
+Boo Lake
+Cheese Land
+Sky Garden
+Sunset Wilds
+Snow Land
+Ribbon Road
+Baby Park
+Dry Dry Desert
+Daisy Cruiser
+Waluigi Stadium
+Sherbet Land
+Yoshi Circuit
+DK Mountain
+Cheep Cheep Beach
+Waluigi Pinball
+Shroom Ridge
+Tick-Tock Clock
+Mario Circuit
+Wario Stadium
+Peach Gardens
+Moo Moo Meadows
+Mushroom Gorge
+Coconut Mall
+DK Summit
+Wario's Gold Mine
+Daisy Circuit
+Koopa Cape
+Maple Treeway
+Grumble Volcano
+Moonview Highway
+Rainbow Road
+Toad Circuit
+Music Park
+Rock Rock Mountain
+Piranha Plant Slide
+Neo Bowser City
+DK Jungle
+Rosalina's Ice World
+Rainbow Road
 Mario Kart Stadium
 Water Park
 Sweet Sweet Canyon
