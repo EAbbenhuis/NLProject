@@ -22,3 +22,4 @@ def load_reddit_comment_data(data_directory):
 
     # the method returns all the loaded Reddit comments
     return comments_data
+
