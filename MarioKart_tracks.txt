@@ -1,96 +1,96 @@
-﻿mario\s+circuit\s+3|\bmc3\b
-bowser\s+castle\s+3|\bbc3\b
-donut\s+plains\s+3|\bdp3\b
-rainbow\s+road|\brr\b
-kalimari\s+desert|\bkd\b
-toad's\s+turnpike|\btt\b
-choco\s+mountain|\bcm\b
-royal\s+raceway|\brr\b
-yoshi\s+valley|\byv\b
-rainbow\s+road|\brr\b
-riverside\s+park|\brp\b
-mario\s+circuit|\bmc\b
-boo\s+lake|\bbl\b
-cheese\s+land|\bcl\b
-sky\s+garden|\bsg\b
-sunset\s+wilds|\bsw\b
-snow\s+land|\bsl\b
-ribbon\s+road|\brr\b
-baby\s+park|\bbp\b
-dry\s+dry\s+desert|\bddd\b
-daisy\s+cruiser|\bdc\b
-waluigi\s+stadium|\bws\b
-sherbet\s+land|\bsl\b
-yoshi\s+circuit|\byc\b
-dk\s+mountain|\bdkm\b
-cheep\s+cheep\s+beach|\bccb\b
-waluigi\s+pinball|\bwp\b
-shroom\s+ridge|\bsr\b
-tick[\s-]tock\s+clock|\bttc\b
-mario\s+circuit|\bmc\b
-wario\s+stadium|\bws\b
-peach\s+gardens|\bpg\b
-moo\s+moo\s+meadows|\bmmm\b
-mushroom\s+gorge|\bmg\b
-coconut\s+mall|\bcm\b
-dk\s+summit|\bdks\b
-wario's\s+gold\s+mine|\bwgm\b
-daisy\s+circuit|\bdc\b
-koopa\s+cape|\bkc\b
-maple\s+treeway|\bmt\b
-grumble\s+volcano|\bgv\b
-moonview\s+highway|\bmh\b
-rainbow\s+road|\brr\b
-toad\s+circuit|\btc\b
-music\s+park|\bmp\b
-rock\s+rock\s+mountain|\brrm\b
-piranha\s+plant\s+slide|\bpps\b
-neo\s+bowser\s+city|\bnbc\b
-dk\s+jungle|\bdkj\b
-rosalina's\s+ice\s+world|\briw\b
-rainbow\s+road|\brr\b
-mario\s+kart\s+stadium|\bmks\b
-water\s+park|\bwp\b
-sweet\s+sweet\s+canyon|\bssc\b
-thwomp\s+ruins|\btr\b
-mario\s+circuit|\bmc\b
-toad\s+harbor|\bth\b
-twisted\s+mansion|\btm\b
-shy\s+guy\s+falls|\bsgf\b
-sunshine\s+airport|\bsa\b
-dolphin\s+shoals|\bds\b
-electrodrome|\bed\b
-mount\s+wario|\bmw\b
-cloudtop\s+cruise|\bcc\b
-bone[\s-]dry\s+dunes|\bbdd\b
-bowser's\s+castle|\bbc\b
-rainbow\s+road|\brr\b
-excitebike\s+arena|\bea\b
-dragon\s+driftway|\bdd\b
-mute\s+city|\bmc\b
-ice\s+ice\s+outpost|\biio\b
-hyrule\s+circuit|\bhc\b
-wild\s+woods|\bww\b
-animal\s+crossing|\bac\b
-super\s+bell\s+subway|\bsbs\b
-big\s+blue|\bbb\b
-new\s+york\s+minute|\btnym\b
-tokyo\s+blur|\bttb\b
-paris\s+promenade|\btpp\b
-london\s+loop|\btll\b
-vancouver\s+velocity|\btvv\b
-los\s+angeles\s+laps|\btla\b
-merry\s+mountain|\bmm\b
-berlin\s+byways|\btbb\b
-ninja\s+hideaway|\bnh\b
-sydney\s+sprint|\btss\b
-singapore\s+speedway|\btsp\b
-amsterdam\s+drift|\btad\b
-bangkok\s+rush|\btbr\b
-sky[\s-]high\s+sundae|\bshs\b
-piranha\s+plant\s+cove|\bppc\b
-yoshi\s*?s?\s+island|\byi\b
-athens\s+dash|\btad\b
-rome\s+avanti|\btra\b
-squeaky\s+clean\s+sprint|\bscs\b
-madrid\s+drive|\btmd\b
+﻿SNES Mario Circuit 3
+SNES Bowser Castle 3
+SNES Donut Plains 3
+SNES Rainbow Road
+N64 Kalimari Desert
+N64 Toad's Turnpike
+N64 Choco Mountain
+N64 Royal Raceway
+N64 Yoshi Valley
+N64 Rainbow Road
+GBA Riverside Park
+GBA Mario Circuit
+GBA Boo Lake
+GBA Cheese Land
+GBA Sky Garden
+GBA Sunset Wilds
+GBA Snow Land
+GBA Ribbon Road
+GCN Baby Park
+GCN Dry Dry Desert
+GCN Daisy Cruiser
+GCN Waluigi Stadium
+GCN Sherbet Land
+GCN Yoshi Circuit
+GCN DK Mountain
+DS Cheep Cheep Beach
+DS Waluigi Pinball
+DS Shroom Ridge
+DS Tick-Tock Clock
+DS Mario Circuit
+DS Wario Stadium
+DS Peach Gardens
+Wii Moo Moo Meadows
+Wii Mushroom Gorge
+Wii Coconut Mall
+Wii DK Summit
+Wii Wario's Gold Mine
+Wii Daisy Circuit
+Wii Koopa Cape
+Wii Maple Treeway
+Wii Grumble Volcano
+Wii Moonview Highway
+Wii Rainbow Road
+3DS Toad Circuit
+3DS Music Park
+3DS Rock Rock Mountain
+3DS Piranha Plant Slide
+3DS Neo Bowser City
+3DS DK Jungle
+3DS Rosalina's Ice World
+3DS Rainbow Road
+Mario Kart Stadium
+Water Park
+Sweet Sweet Canyon
+Twomp Ruins
+Mario Circuit
+Toad Harbor
+Twisted Mansion
+Shy Guy Falls
+Sunshine Airport
+Dolphin Shoals
+Electrodrome
+Mount Wario
+Cloudtop Cruise
+Bone-Dry Dunes
+Bowser's Castle
+Rainbow Road
+Excitebike Arena
+Dragon Driftway
+Mute City
+Ice Ice Outpost
+Hyrule Circuit
+Wild Woods
+Animal Crossing
+Super Bell Subway
+Big Blue
+Tour New York Minute
+Tour Tokio Blur
+Tour Paris Promenade
+Tour London Loop
+Tour Vancouver Velocity
+Tour Los Angeles Laps
+Merry Mountain
+Tour Berlin Byways
+Ninja Hideaway
+Tour Sidney Sprint
+Tour Singapore Speedway
+Tour Amsterdam Drift
+Tour Bangkok Rush
+Sky-High Sundae
+Piranha Plant Cove
+Yoshi's Island
+Tour Athens Dash
+Tour Rome Avanti
+Squeaky Clean Sprint
+Tour Madrid Drive
