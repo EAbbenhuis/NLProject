@@ -1,13 +1,12 @@
 ﻿SNES Mario Circuit 3
 SNES Bowser Castle 3
 SNES Donut Plains 3
-SNES Rainbow Road
+Rainbow Road (all)
 N64 Kalimari Desert
 N64 Toad's Turnpike
 N64 Choco Mountain
 N64 Royal Raceway
 N64 Yoshi Valley
-N64 Rainbow Road
 GBA Riverside Park
 GBA Mario Circuit
 GBA Boo Lake
@@ -40,7 +39,6 @@ Wii Koopa Cape
 Wii Maple Treeway
 Wii Grumble Volcano
 Wii Moonview Highway
-Wii Rainbow Road
 3DS Toad Circuit
 3DS Music Park
 3DS Rock Rock Mountain
@@ -48,7 +46,6 @@ Wii Rainbow Road
 3DS Neo Bowser City
 3DS DK Jungle
 3DS Rosalina's Ice World
-3DS Rainbow Road
 Mario Kart Stadium
 Water Park
 Sweet Sweet Canyon
@@ -64,7 +61,6 @@ Mount Wario
 Cloudtop Cruise
 Bone-Dry Dunes
 Bowser's Castle
-Rainbow Road
 Excitebike Arena
 Dragon Driftway
 Mute City

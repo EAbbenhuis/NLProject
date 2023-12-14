@@ -7,7 +7,6 @@ toad's\s+turnpike|\btt\b
 choco\s+mountain|\bcm\b
 royal\s+raceway|\brr\b
 yoshi\s+valley|\byv\b
-rainbow\s+road|\brr\b
 riverside\s+park|\brp\b
 mario\s+circuit|\bmc\b
 boo\s+lake|\bbl\b
@@ -40,7 +39,6 @@ koopa\s+cape|\bkc\b
 maple\s+treeway|\bmt\b
 grumble\s+volcano|\bgv\b
 moonview\s+highway|\bmh\b
-rainbow\s+road|\brr\b
 toad\s+circuit|\btc\b
 music\s+park|\bmp\b
 rock\s+rock\s+mountain|\brrm\b
@@ -48,7 +46,6 @@ piranha\s+plant\s+slide|\bpps\b
 neo\s+bowser\s+city|\bnbc\b
 dk\s+jungle|\bdkj\b
 rosalina's\s+ice\s+world|\briw\b
-rainbow\s+road|\brr\b
 mario\s+kart\s+stadium|\bmks\b
 water\s+park|\bwp\b
 sweet\s+sweet\s+canyon|\bssc\b
@@ -64,7 +61,6 @@ mount\s+wario|\bmw\b
 cloudtop\s+cruise|\bcc\b
 bone[\s-]dry\s+dunes|\bbdd\b
 bowser's\s+castle|\bbc\b
-rainbow\s+road|\brr\b
 excitebike\s+arena|\bea\b
 dragon\s+driftway|\bdd\b
 mute\s+city|\bmc\b
