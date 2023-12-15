@@ -88,5 +88,5 @@ piranha\s+plant\s+cove|\bppc\b
 yoshi\s*?s?\s+island|\byi\b
 athens\s+dash|\btad\b
 rome\s+avanti|\btra\b
-squeaky\s+clean\s+sprint|\bscs\b
+squeaky-?\s+clean\s+sprint|\bscs\b|squeaky
 madrid\s+drive|\btmd\b
